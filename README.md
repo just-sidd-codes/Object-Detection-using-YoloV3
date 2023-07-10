@@ -27,3 +27,4 @@ python real_time_object_detection.py
 
 With this project, you can gain hands-on experience in utilizing pre-trained deep learning models, specifically the YOLOv3 algorithm, for real-time object detection. By combining the power of YOLOv3 with OpenCV's image and video processing capabilities, you can detect and track objects with impressive accuracy and efficiency in various contexts, ranging from individual images to real-time video streams.
 
+Learn more about Yolo from https://pjreddie.com/darknet/yolo/
